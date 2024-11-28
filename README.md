@@ -1,4 +1,4 @@
 # Ut02-Practicas
-## Modelo Entidad/Relación (Ejercicios)
-## Modelo Relacional (Ejercicios)
-## Normalización (Ejercicios)
+1) Modelo Entidad/Relación (Ejercicios)
+2) Modelo Relacional (Ejercicios)
+3) Normalización (Ejercicios)
